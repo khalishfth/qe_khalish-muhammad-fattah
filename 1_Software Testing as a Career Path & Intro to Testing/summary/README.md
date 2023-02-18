@@ -19,7 +19,7 @@ Di paragraf ini menjelaskan tentang apa yang menjadi keypoint dari poin ketiga, 
 Di paragraf ini menjelaskan tentang apa yang menjadi keypoint dari poin pertama, hal-hal yang dilakukan software tester meliputi memahami dokumen persyaratan software, membuat test case, melakukan testing, melaporkan hasil testing, melakukan testing ulang pada bug-bug software yang telah diperbaiki, menghadiri rapat dan kegiatan tim.
 
 ### Poin Kedua
-Di paragraf ini menjelaskan tentang apa yang menjadi keypoint dari poin pertama, seorang software tester memerlukan non-technical dan technical skills, dimana non-technical skills diantaranya analytical, communication, time management, organization, great attitude, passion, dan empathy sedangkan untuk technical skills diantaranya knowledge dan experience pada Unix/Linux Commands, Test Management Tool, Tracking Management Tool, dan Automation Testing Tool.
+Di paragraf ini menjelaskan tentang apa yang menjadi keypoint dari poin kedua, seorang software tester memerlukan non-technical dan technical skills, dimana non-technical skills diantaranya analytical, communication, time management, organization, great attitude, passion, dan empathy sedangkan untuk technical skills diantaranya knowledge dan experience pada Unix/Linux Commands, Test Management Tool, Tracking Management Tool, dan Automation Testing Tool.
 
 ### Poin Ketiga
-Di paragraf ini menjelaskan tentang apa yang menjadi keypoint dari poin pertama, seorang software tester memiliki alternatif karir antara lain menjadi performance tester, penetration tester, system analyst, dan scrum master.
+Di paragraf ini menjelaskan tentang apa yang menjadi keypoint dari poin ketiga, seorang software tester memiliki alternatif karir antara lain menjadi performance tester, penetration tester, system analyst, dan scrum master.
