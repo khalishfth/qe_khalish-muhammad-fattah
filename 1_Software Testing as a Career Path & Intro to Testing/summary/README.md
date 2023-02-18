@@ -8,7 +8,7 @@ Software testing memiliki peran penting dalam pembuatan dan pengembangan sebuah 
 Di paragraf ini menjelaskan tentang apa yang menjadi keypoint dari poin pertama, software testing didefinisikan sebagai proses untuk mengevaluasi software yang bertujuan mengidentifikasi perbedaan antara keadaan aktual dan keadaan yang diharapkan serta mengevaluasi fitur dan kualitas dari software yang diuji.
 
 ### Poin Kedua
-Di paragraf ini menjelaskan tentang apa yang menjadi keypoint dari poin kedua, rerdapat 3 tipe software testing yaitu functional testing, non-functional testing, dan maintenance yang mana dari ketiga tipe tersebut terdapat macam-macam jenis testing di dalamnya.
+Di paragraf ini menjelaskan tentang apa yang menjadi keypoint dari poin kedua, terdapat 3 tipe software testing yaitu functional testing, non-functional testing, dan maintenance yang mana dari ketiga tipe tersebut terdapat macam-macam jenis testing di dalamnya.
 
 ### Poin Ketiga
 Di paragraf ini menjelaskan tentang apa yang menjadi keypoint dari poin ketiga, software testing memiliki 4 tingkatan testing, dari unit testing berlanjut ke integration testing lalu system testing dan diakhiri dengan acceptance testing.
