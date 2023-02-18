@@ -1,6 +1,6 @@
 # (1) Software Testing as a Career Path & Intro to Testing
 
-Software testing memiliki peran penting dalam pembuatan dan pengembangan sebuah software dimana melalui serangkaian testing yang dilakukan dapat diketahui tingkat kematangan sebuah software sebelum dirilis secara publik.
+Software testing memiliki peran penting dalam pembuatan dan pengembangan sebuah software dimana melalui serangkaian testing yang dilakukan dapat diketahui tingkat kematangan sebuah software dan kesesuaiannya dengan requirement sebelum dirilis secara publik.
 
 ## Materi 1: Software Testing Fundamental
 
