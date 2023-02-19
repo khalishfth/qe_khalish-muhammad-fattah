@@ -5,13 +5,13 @@ Software testing memiliki peran penting dalam pembuatan dan pengembangan sebuah 
 ## Materi 1: Software Testing Fundamental
 
 ### Poin Pertama
-Poin pertama menjelaskan tentang software testing didefinisikan sebagai proses untuk mengevaluasi software yang bertujuan mengidentifikasi perbedaan antara keadaan aktual dan keadaan yang diharapkan serta mengevaluasi fitur dan kualitas dari software yang diuji.
+Poin pertama menjelaskan tentang software testing yang didefinisikan sebagai proses untuk mengevaluasi software yang bertujuan mengidentifikasi perbedaan antara keadaan aktual dan keadaan yang diharapkan serta mengevaluasi fitur dan kualitas dari software yang diuji.
 
 ### Poin Kedua
-Poin kedua menjelaskan tentang terdapat 3 tipe software testing yaitu functional testing, non-functional testing, dan maintenance yang mana dari ketiga tipe tersebut terdapat macam-macam jenis testing di dalamnya.
+Poin kedua menjelaskan tentang terdapat 3 tipe software testing yaitu functional testing, non-functional testing, dan maintenance yang mana dari ketiga tipe tersebut terdapat macam-macam jenis testing di dalamnya. Sebagai contoh untuk functional testing diantaranya meliputi manual dan automate testing, untuk non-functional testing contohnya ada performance testing, dan untuk maintenance testing sebagai contoh ada regression testing.
 
 ### Poin Ketiga
-Poin ketiga menjelaskan tentang software testing memiliki 4 tingkatan testing, dari unit testing berlanjut ke integration testing lalu system testing dan diakhiri dengan acceptance testing.
+Poin ketiga menjelaskan tentang software testing memiliki 4 tingkatan testing, dari unit testing berlanjut ke integration testing lalu system testing dan diakhiri dengan acceptance testing. Unit testing singkatnya adalah pengujian untuk unit/komponen dari software. Integration testing singkatnya adalah pengujian dari beberapa unit/komponen dari software yang digabung dan diuji dalam sebuah grup. System testing singkatnya merupakan pengujian pada software yang telah utuh dan terintegrasi. Acceptance testing singkatnya merupakan pengujian pada software dimana sistem pada software tersebut diuji untuk menentukan sejauh mana software telah memenuhi persyaratan spesifikasi.
 
 ## Materi 2: Software Testing as a Career Path
 
