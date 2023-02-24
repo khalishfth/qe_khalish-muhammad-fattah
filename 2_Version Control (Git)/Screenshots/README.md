@@ -19,4 +19,4 @@ Pada screenshot ini dilakukan sebuah skenario manajemen konflik yang terjadi dik
 Pada screenshot ini dilakukan penyelesaian konflik yang terdapat pada screenshot **Soal Eksplorasi (Manajemen Konflik - 1)** dan setelah manajemen konflik selesai dilakukan maka commit untuk melakukan merge diantara kedua perubahan yang terjadi di file yang sama akan tetapi berbeda branch tersebut dapat dilakukan.
 
 ### Screenshot - Soal Eksplorasi (Code Review)
-Pada screenshot ini dilakukan sebuah skenario salah satu bentuk dari code review yaitu memberikan comment pada sebuah merge pull request yang akan dilakukan. Dikarenakan bukan memberikan komentar kepada orang lain tetapi kepada file milik sendiri maka hanya dapat sebatas memberikan comment tidak bisa sampai melakukan request changes.
+Pada screenshot ini dilakukan 
