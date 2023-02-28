@@ -1,7 +1,5 @@
 # (3) Testing Documentation & Test Case & Tracking Management Tools
 
-...
-
 ## Materi 1: Testing Documentation
 
 ### Poin Pertama
@@ -37,11 +35,23 @@ Poin ketiga menjelaskan tentang langkah-langkah dari penggunaan platform TestRai
 ## Materi 3: Tracking Management Tools
 
 ### Poin Pertama
-Poin pertama menjelaskan tentang Jira
+Poin pertama menjelaskan tentang Jira yang mana adalah sebuah platform manajemen proyek dan tugas yang digunakan untuk membantu tim dalam mengorganisir pekerjaan, melacak progres, melakukan pelacakan bugs, melakukan pelacakan issue, dan mengelola tugas-tugas dalam sebuah proyek atau produk. Jira dikembangkan oleh perusahaan software Atlassian, dan telah digunakan oleh berbagai macam tim di seluruh dunia, termasuk tim pengembang perangkat lunak, tim pengelola infrastruktur IT, dan tim pemasaran.
 
 ### Poin Kedua
-Poin kedua menjelaskan tentang tipe-tipe issue pada Jira
+Poin kedua menjelaskan tentang tipe-tipe issue pada Jira meliputi:
+1. Story: Story adalah deskripsi umum tentang sebuah fitur atau kebutuhan bisnis yang harus diimplementasikan dalam sebuah produk atau proyek. Story biasanya ditulis dari perspektif pengguna dan menggambarkan apa yang ingin dicapai oleh pengguna, bukan cara untuk mencapainya.
+2. Task: Task adalah tugas-tugas kecil yang harus diselesaikan untuk menyelesaikan sebuah story atau memperbaiki sebuah bug. Task biasanya lebih spesifik dan terperinci daripada story, dan berisi instruksi tentang cara menyelesaikan tugas tersebut.
+3. Bug: Bug adalah masalah atau kesalahan dalam kode atau produk yang menyebabkan produk tidak berfungsi dengan benar. Bug biasanya ditemukan melalui pengujian atau pemakaian produk, dan harus diperbaiki untuk memastikan produk berfungsi dengan benar.
+4. Epic: Epic adalah kategori atau kelompok yang berisi beberapa story dan task. Epic digunakan untuk mengorganisir story dan task menjadi unit yang lebih besar, dan memungkinkan tim untuk melacak progres secara keseluruhan dalam sebuah proyek atau produk.
 
 ### Poin Ketiga
-Poin ketiga menjelaskan tentang hal-hal yang perlu diperhatiin oleh quality engineer ketika menggunakan Jira
+Poin ketiga menjelaskan tentang hal-hal yang perlu diperhatiin oleh quality engineer ketika menggunakan Jira meliputi:
+1. Memahami alur kerja (Workflow) Jira
+2. Membuat dan menetapkan kategori tugas
+3. Menetapkan prioritas
+4. Menggunakan Jira untuk melacak perubahan
+5. Memonitoring dan pelaporan
+6. Kolaborasi dan komunikasi
+7. Ketika ada yang tidak sesuai dengan kriteria testing membuat issue bertipa bugs
+8. Fitur-fitur yang berkaitan dengan bugs dipindahkan ke kolom "in progress"
 
