@@ -8,6 +8,7 @@ Pada poin ini dijelaskan, Shell script adalah program kecil yang dibuat mengguna
 
 ### Poin 3
 Pada poin ini dijelaskan: 
+
 Cara membuat shell script:
 
 - Buka terminal Linux dan buat file baru dengan perintah touch namafile.sh
