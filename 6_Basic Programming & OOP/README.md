@@ -5,9 +5,9 @@
 ### Poin Pertama
 Poin pertama menjelaskan tentang tipe-tipe data dan operator pada Java. Tipe-tipe data dan operator digunakan dalam penulisan kode program Java untuk melakukan perhitungan, membandingkan nilai, atau melakukan operasi logika pada data.
 Tipe-tipe data dan Operator pada Java:
-- Tipe-tipe data:
-Tipe data primitif: boolean, byte, short, int, long, float, dan double.
-Tipe data non-primitif: String, array, dan class.
+Tipe-tipe data:
+- Tipe data primitif: boolean, byte, short, int, long, float, dan double.
+- Tipe data non-primitif: String, array, dan class.
 - Operator:
 Operator aritmatika: +, -, *, /, % (modulus).
 Operator penugasan: =, +=, -=, *=, /=, %=.
