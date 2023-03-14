@@ -23,8 +23,8 @@ Poin kedua menjelaskan tentang input output dan branching pada Java. Input outpu
 2. Output: System.out.println() digunakan untuk mencetak keluaran ke konsol.
 
 - Branching:
-4. If statement: digunakan untuk menjalankan kode tertentu jika kondisi tertentu terpenuhi.
-5. Switch statement: digunakan untuk memilih kode yang akan dieksekusi berdasarkan nilai variabel yang diberikan.
+1. If statement: digunakan untuk menjalankan kode tertentu jika kondisi tertentu terpenuhi.
+2. Switch statement: digunakan untuk memilih kode yang akan dieksekusi berdasarkan nilai variabel yang diberikan.
 
 ### Poin Ketiga
 Poin ketiga menjelaskan tentang looping pada Java. Looping digunakan untuk mengulang kode tertentu sejumlah tertentu atau sampai kondisi tertentu terpenuhi. Hal ini berguna untuk melakukan pengolahan data yang besar atau melakukan tindakan yang sama berulang kali.
@@ -41,12 +41,12 @@ Poin pertama menjelaskan tentang prinsip-prinsip dasar OOP pada Java. Prinsip-pr
 2. Pewarisan (Inheritance): memungkinkan suatu kelas untuk mengambil properti dan metode dari kelas lain.
 3. Polimorfisme (Polymorphism): memungkinkan objek untuk memiliki beberapa bentuk atau perilaku.
 4. Enkapsulasi (Encapsulation): menyembunyikan detail implementasi dan membuat data dan metode hanya dapat diakses oleh kelas itu sendiri.
-e. Objek: suatu entitas yang memiliki atribut dan perilaku.
+5. Objek: suatu entitas yang memiliki atribut dan perilaku.
 
 ### Poin Kedua
 Poin kedua menjelaskan tentang class dan object pada Java. Class dan object digunakan untuk membuat program yang lebih terstruktur dan modular, dengan membagi kode ke dalam bagian yang lebih kecil dan terpisah.
-1. Class: blueprint atau cetak biru untuk membuat objek, mendefinisikan atribut dan perilaku objek.
-b. Object: instance dari suatu class, dibuat dengan kata kunci "new", memiliki atribut dan perilaku yang didefinisikan oleh class.
+- Class: blueprint atau cetak biru untuk membuat objek, mendefinisikan atribut dan perilaku objek.
+- Object: instance dari suatu class, dibuat dengan kata kunci "new", memiliki atribut dan perilaku yang didefinisikan oleh class.
 
 ### Poin Ketiga
 Poin ketiga menjelaskan tentang access modifier pada Java. Access modifier merupakan keyword yang digunakan untuk menentukan tingkat aksesibilitas variabel, metode, dan kelas dalam program Java. Access modifier digunakan untuk mengontrol aksesibilitas variabel, metode, dan kelas dalam program Java, untuk memastikan bahwa kode program hanya dapat diakses oleh yang seharusnya dan untuk meminimalkan kesalahan.
