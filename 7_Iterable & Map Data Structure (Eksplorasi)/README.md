@@ -1,1 +1,10 @@
+# (7) Iterable & Map Data Structure (Eksplorasi)
 
+### Poin Pertama
+Poin pertama menjelaskan tentang collection dan list pada Java. Collection adalah kumpulan objek pada Java, yang dapat dikelola sebagai satu kesatuan. List adalah salah satu tipe Collection pada Java yang berisi kumpulan elemen yang disimpan dalam urutan tertentu. List dapat diakses melalui indeks, dan dapat menampung objek dengan duplikasi. Method pada interface Collection antara lain yaitu add(Object obj) untuk menambahkan objek ke dalam Collection, size() untuk mengembalikan jumlah elemen dalam Collection, dan isEmpty() untuk mengembalikan nilai true jika Collection kosong, dan false sebaliknya. Contoh implementasi List pada Java adalah ArrayList dan LinkedList.
+
+### Poin Kedua
+Poin kedua menjelaskan tentang Set, Sorted Set, Queue, Deque dan Stack pada Java. Set adalah salah satu tipe Collection pada Java yang berisi kumpulan elemen yang unik (tidak ada duplikasi). Sorted Set adalah Set yang diurutkan secara alami, yaitu berdasarkan elemen yang disimpan. Queue adalah tipe Collection pada Java yang digunakan untuk menyimpan dan mengelola kumpulan elemen yang menunggu untuk diproses. Deque (Double Ended Queue) adalah tipe Queue yang dapat memproses elemen dari kedua sisi (depan dan belakang). Stack adalah tipe Collection pada Java yang berisi kumpulan elemen yang disimpan dalam urutan tumpukan (LIFO - Last In First Out). Contoh implementasi Set pada Java adalah HashSet dan TreeSet, contoh implementasi Queue pada Java adalah PriorityQueue, contoh implementasi Deque pada Java adalah ArrayDeque, dan contoh implementasi Stack pada Java adalah Stack.
+
+### Poin Ketiga
+Poin ketiga menjelaskan tentang Map, Sorted Map dan Navigable Map pada Java. Map adalah tipe Collection pada Java yang memetakan kunci (key) ke nilai (value). Sorted Map adalah Map yang diurutkan berdasarkan kunci secara alami. Navigable Map adalah Sorted Map yang dapat digunakan untuk navigasi dan pencarian berdasarkan kunci. Contoh implementasi Map pada Java adalah HashMap dan TreeMap, contoh implementasi Sorted Map pada Java adalah TreeMap, dan contoh implementasi Navigable Map pada Java adalah TreeMap.
