@@ -22,7 +22,7 @@ Poin kedua menjelaskan tentang Pengertian Cucumber, Format BDD, Pengertian Gherk
 ##### Feature: Login
 As a user, I want to login into the application so that I can access my account.
 
-###### Scenario: Valid Login
+##### Scenario: Valid Login
 - Given I am on the login page
 - When I fill in "Username" with "user1"
 - And I fill in "Password" with "password1"
