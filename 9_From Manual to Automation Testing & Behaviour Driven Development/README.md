@@ -19,8 +19,8 @@ Poin pertama menjelaskan tentang Pengertian BDD, Kelebihan BDD dan Fungsi BDD. D
 ### Poin Kedua
 Poin kedua menjelaskan tentang Pengertian Cucumber, Format BDD, Pengertian Gherkin Cucumber dan contohnya. Cucumber adalah salah satu tool yang digunakan dalam BDD. Cucumber menggunakan format BDD yang menggabungkan bahasa alami dan kode, sehingga memudahkan pengguna untuk memahami skenario yang dibangun. Gherkin Cucumber adalah bahasa yang digunakan dalam format BDD. Contoh penggunaan Gherkin Cucumber adalah sebagai berikut: 
 
-Feature: Login
-As a user
+```Feature: Login
+  As a user
   I want to login into the application
   So that I can access my account
 
@@ -29,7 +29,7 @@ As a user
     When I fill in "Username" with "user1"
     And I fill in "Password" with "password1"
     And I press "Login"
-    Then I should see "Welcome user1"
+    Then I should see "Welcome user1"```
 
 
 ### Poin Ketiga
