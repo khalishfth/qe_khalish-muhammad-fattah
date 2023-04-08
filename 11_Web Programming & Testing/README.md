@@ -155,10 +155,52 @@ Kompatibilitas: Bootstrap kompatibel dengan berbagai peramban web modern, sepert
 ## Materi 2: Review Web UI Testing with Serenity
 
 ### Poin Pertama
-Poin pertama menjelaskan tentang 
+Poin pertama menjelaskan tentang Pengertian Serenity BDD, Terdiri dari Apa Saja Arsitektur Serenity BDD, Deskripsi dari Masing-masing Arsitektur Serenity BDD (Define Requirements, Automate Acceptance Criteria, Implement the Test, Report on the Test Results).
+
+- Serenity BDD adalah sebuah framework pengujian perangkat lunak yang berbasis pada Behavior-Driven Development (BDD). BDD adalah metodologi pengembangan perangkat lunak yang fokus pada kolaborasi antara tim pengembang, tim pengujian, dan pemangku kepentingan bisnis untuk menghasilkan perangkat lunak yang berkualitas dan sesuai dengan kebutuhan bisnis.
+
+- Arsitektur Serenity BDD terdiri dari beberapa tahap, yaitu:
+
+Define Requirements: Tahap ini melibatkan kolaborasi antara tim pengembang, tim pengujian, dan pemangku kepentingan bisnis untuk menentukan kebutuhan bisnis yang harus diimplementasikan dalam perangkat lunak. Hasil dari tahap ini adalah sebuah dokumen yang berisi skenario pengujian yang dijelaskan dalam bahasa alami yang dapat dimengerti oleh semua pihak terkait.
+
+Automate Acceptance Criteria: Tahap ini melibatkan tim pengujian dalam mengubah skenario pengujian yang sudah didefinisikan dalam tahap sebelumnya menjadi skenario pengujian yang dapat dijalankan secara otomatis. Serenity BDD menyediakan fitur yang memungkinkan pengujian dapat ditulis dalam bahasa alami yang mudah dipahami, seperti Gherkin.
+
+Implement the Test: Tahap ini melibatkan tim pengembang dalam mengimplementasikan kode pengujian berdasarkan skenario pengujian yang sudah diotomatisasi dalam tahap sebelumnya. Serenity BDD mendukung pengujian dalam berbagai bahasa pemrograman, seperti Java, C#, dan Ruby.
+
+Report on the Test Results: Tahap ini melibatkan tim pengujian dalam melihat hasil dari pengujian yang sudah dijalankan dan menghasilkan laporan yang dapat memberikan informasi tentang status pengujian dan kualitas perangkat lunak yang diuji. Serenity BDD menyediakan fitur pelaporan yang komprehensif dan dapat digunakan untuk menghasilkan laporan yang informatif dan mudah dipahami.
 
 ### Poin Kedua
-Poin kedua menjelaskan tentang 
+Poin kedua menjelaskan tentang Persiapan dan Tools untuk Melakukan Testing dengan Serenity BDD dan Maven, Penjelasan tentang Practice Scenario dengan Serenity BDD (Write Test Story, Create Test Class, Create Test Steps, Create Page Object, Run the Test).
+  
+- Sebelum dapat melakukan pengujian menggunakan Serenity BDD, beberapa persiapan dan pengaturan perlu dilakukan, antara lain:
+
+Menggunakan Maven: Maven adalah sebuah alat manajemen proyek yang banyak digunakan dalam pengembangan perangkat lunak Java. Serenity BDD dapat diintegrasikan dengan Maven untuk mengelola dependensi dan konfigurasi proyek pengujian.
+
+Menggunakan Serenity BDD Plugin: Serenity BDD menyediakan plugin untuk Maven yang dapat digunakan untuk mengatur pengaturan dan konfigurasi proyek pengujian.
+
+Menyusun Skenario Pengujian: Skenario pengujian dalam Serenity BDD ditulis dalam bahasa Gherkin, yang merupakan bahasa alami yang mudah dipahami oleh tim pengembang, tim pengujian, dan pemangku kepentingan bisnis. Skenario pengujian biasanya dinyatakan dalam bentuk "cerita" (story) yang berisi langkah-langkah pengujian yang diinginkan.
+
+- Praktik pengujian dengan Serenity BDD biasanya melibatkan langkah-langkah sebagai berikut:
+
+Menulis Test Story: Tim pengujian menulis skenario pengujian dalam bentuk cerita (story) menggunakan bahasa Gherkin. Cerita ini harus jelas, spesifik, dan mudah dimengerti oleh semua pihak terkait, termasuk tim pengembang dan pemangku kepentingan bisnis.
+
+Membuat Test Class: Setelah cerita pengujian ditulis, tim pengujian membuat kelas pengujian (test class) yang akan mengimplementasikan skenario pengujian tersebut. Kelas pengujian ini akan mengandung kode pengujian yang akan dijalankan secara otomatis.
+
+Membuat Test Steps: Dalam kelas pengujian, tim pengujian membuat langkah-langkah pengujian (test steps) yang sesuai dengan langkah-langkah dalam cerita pengujian. Langkah-langkah pengujian ini akan dijalankan secara berurutan sesuai dengan skenario pengujian yang ditentukan dalam cerita pengujian.
+
+Membuat Page Object: Page Object adalah sebuah pola desain yang digunakan dalam Serenity BDD untuk memisahkan logika pengujian dari implementasi antarmuka pengguna. Tim pengujian membuat Page Object yang berisi metode-metode untuk mengakses dan memanipulasi elemen-elemen antarmuka pengguna dalam pengujian. Hal ini memungkinkan pengujian tetap berjalan walaupun ada perubahan pada antarmuka pengguna.
+
+Menjalankan Pengujian: Setelah semua langkah pengujian, langkah-langkah pengujian, dan Page Object sudah dibuat, tim pengujian dapat menjalankan pengujian menggunakan alat pengujian yang disediakan oleh Serenity BDD, seperti JUnit atau TestNG. Serenity BDD akan menjalankan pengujian sesuai dengan skenario pengujian yang telah ditentukan dalam cerita pengujian, dan menghasilkan laporan hasil pengujian yang bisa dianalisis oleh tim pengujian dan tim pengembang.
 
 ### Poin Ketiga
-Poin ketiga menjelaskan tentang 
+Poin ketiga menjelaskan tentang Serenity Properties, Parameter Injection, Meta Filtering, Parameterized Scenario. 
+  
+Serenity BDD menyediakan fitur-fitur lanjutan yang dapat membantu tim pengujian dalam mengatur dan mengelola pengujian dengan lebih efisien, antara lain:
+
+- Serenity Properties: Serenity Properties adalah file konfigurasi yang dapat digunakan untuk mengatur berbagai pengaturan dalam pengujian, seperti URL aplikasi yang diuji, pengaturan untuk pengujian paralel, dan pengaturan untuk pelaporan. Dengan menggunakan Serenity Properties, tim pengujian dapat mengelola pengaturan pengujian secara terpusat dan menghindari hardcoding pengaturan dalam kode pengujian.
+
+- Parameter Injection: Serenity BDD mendukung injeksi parameter ke dalam langkah-langkah pengujian. Parameter-parameter ini dapat digunakan untuk mengganti nilai-nilai dalam langkah-langkah pengujian dengan nilai yang diberikan dalam cerita pengujian atau dalam pengaturan Serenity Properties. Hal ini memungkinkan tim pengujian untuk menguji berbagai skenario dengan data yang berbeda tanpa harus mengubah kode pengujian secara langsung.
+
+- Meta Filtering: Meta Filtering adalah fitur Serenity BDD yang memungkinkan tim pengujian untuk mengatur pengujian yang akan dijalankan berdasarkan tag atau meta-data yang diberikan dalam cerita pengujian. Tag ini dapat digunakan untuk mengatur pengujian berdasarkan fitur, cerita, atau kriteria lain yang diperlukan. Meta Filtering memungkinkan tim pengujian untuk menjalankan pengujian tertentu atau kelompok pengujian yang spesifik berdasarkan tag yang diberikan, sehingga memungkinkan pengujian yang lebih selektif dan efisien.
+
+- Parameterized Scenario: Serenity BDD juga mendukung pengujian skenario yang di-parameterisasi. Dalam skenario yang di-parameterisasi, tim pengujian dapat menentukan data uji yang akan digunakan dalam skenario pengujian dalam bentuk tabel atau data lainnya. Dengan pengujian skenario yang di-parameterisasi, tim pengujian dapat menguji berbagai kasus uji dengan data yang berbeda dalam satu skenario pengujian, sehingga mengurangi repetisi kode pengujian dan memungkinkan pengujian yang lebih dinamis.
