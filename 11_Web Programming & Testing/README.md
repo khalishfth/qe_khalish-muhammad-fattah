@@ -6,8 +6,11 @@
 Poin pertama menjelaskan tentang Pengertian Frontend, Pengertian HTML, Kegunaan HTML, Tag-Tag HTML. 
 
 - Frontend adalah salah satu bagian dari pengembangan web yang berfokus pada tampilan dan interaksi pengguna. Frontend mencakup teknologi-teknologi seperti HTML, CSS, dan JavaScript yang digunakan untuk merancang dan mengembangkan antarmuka pengguna pada website atau aplikasi web.
+
 - HTML (Hypertext Markup Language) adalah bahasa markup yang digunakan untuk membuat struktur dan konten pada halaman web. HTML digunakan untuk menentukan elemen-elemen seperti judul, paragraf, gambar, video, dan tautan dalam sebuah halaman web. HTML berfungsi sebagai kerangka dasar untuk membangun sebuah website.
+
 - Kegunaan HTML sangat penting dalam pengembangan web. HTML digunakan untuk membangun struktur dasar sebuah halaman web, seperti judul, paragraf, daftar, tabel, formulir, dan lain-lain. HTML juga digunakan untuk menyematkan berbagai jenis konten media seperti gambar, video, dan audio dalam sebuah halaman web.
+
 - Tag-tag HTML adalah elemen-elemen yang digunakan dalam kode HTML untuk membangun struktur dan konten sebuah halaman web. Tag-tag HTML dimulai dengan tanda "<" (kurung siku buka) dan diakhiri dengan tanda ">" (kurung siku tutup). Beberapa contoh tag HTML umum yang digunakan adalah:
 
 ```
@@ -26,6 +29,7 @@ Poin pertama menjelaskan tentang Pengertian Frontend, Pengertian HTML, Kegunaan 
 Poin kedua menjelaskan tentang Pengertian dan Kegunaan CSS, Pengertian dan Implementasi dari (External CSS, Internal CSS dan Inline CSS), Pengertian CSS Selector dan Implementasinya, Pengertian CSS Grouping dan Implementasinya.
 
 - CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk mengatur tampilan atau gaya suatu halaman web yang sudah dibangun dengan HTML. Dengan menggunakan CSS, pengembang web dapat mengontrol tata letak, warna, ukuran, dan gaya lainnya dari elemen-elemen HTML di dalam halaman web, sehingga dapat menciptakan tampilan yang menarik dan konsisten pada seluruh situs web.
+
 - Pengertian dan Implementasi dari External CSS, Internal CSS, dan Inline CSS:
 
 External CSS: External CSS adalah cara menghubungkan file CSS terpisah dari file HTML. Dalam external CSS, kode CSS ditulis dalam file terpisah dengan ekstensi .css dan dihubungkan ke dalam file HTML menggunakan tag <link>. Keuntungan menggunakan external CSS adalah memisahkan antara kode HTML dan kode CSS, sehingga memudahkan pemeliharaan dan pengelolaan tampilan pada situs web yang lebih besar dan kompleks.
