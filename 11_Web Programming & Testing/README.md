@@ -103,7 +103,7 @@ p {
 }
 ```
 
-Pengertian CSS Grouping dan Implementasinya:
+- Pengertian CSS Grouping dan Implementasinya:
 
 CSS Grouping adalah cara untuk mengelompokkan beberapa selector menjadi satu aturan CSS. Hal ini memungkinkan pengembang web untuk memberikan gaya yang sama kepada beberapa elemen HTML dengan kode CSS yang lebih efisien.
 
