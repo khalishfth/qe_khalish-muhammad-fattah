@@ -126,13 +126,13 @@ padding: 5px 10px;
 
 
 ### Poin Ketiga
-Poin ketiga menjelaskan tentang Pengertian dan Kegunaan Frontend Framework, Contoh-contoh Frontend Framework, Pengertian Bootstrap dan Keunggulannya
+Poin ketiga menjelaskan tentang Pengertian dan Kegunaan Frontend Framework, Contoh Frontend Framework, Pengertian Bootstrap dan Keunggulannya
 
 - Pengertian dan Kegunaan Frontend Framework:
 
 Frontend Framework adalah kumpulan dari berbagai teknologi atau komponen yang digunakan untuk membangun antarmuka pengguna (UI) suatu aplikasi web. Frontend Framework menyediakan struktur, komponen, dan gaya yang sudah siap pakai sehingga memudahkan pengembang web dalam membangun tampilan yang menarik dan responsif tanpa harus membuat semuanya dari awal.
 
-- Contoh-contoh Frontend Framework:
+- Contoh Frontend Framework:
 
 Bootstrap: Bootstrap adalah salah satu Frontend Framework yang paling populer dan banyak digunakan. Bootstrap menyediakan kumpulan komponen UI seperti grid system, form, button, navbar, dan masih banyak lagi, serta gaya CSS yang sudah siap pakai. Bootstrap juga menyediakan JavaScript plugin untuk memperkaya interaksi pengguna dalam aplikasi web.
 
