@@ -10,6 +10,7 @@ Poin pertama menjelaskan tentang Pengertian Frontend, Pengertian HTML, Kegunaan 
 - Kegunaan HTML sangat penting dalam pengembangan web. HTML digunakan untuk membangun struktur dasar sebuah halaman web, seperti judul, paragraf, daftar, tabel, formulir, dan lain-lain. HTML juga digunakan untuk menyematkan berbagai jenis konten media seperti gambar, video, dan audio dalam sebuah halaman web.
 - Tag-tag HTML adalah elemen-elemen yang digunakan dalam kode HTML untuk membangun struktur dan konten sebuah halaman web. Tag-tag HTML dimulai dengan tanda "<" (kurung siku buka) dan diakhiri dengan tanda ">" (kurung siku tutup). Beberapa contoh tag HTML umum yang digunakan adalah:
 
+```
 <h1>, <h2>, <h3>, <h4>, <h5>, <h6>: Tag ini digunakan untuk membuat judul dengan tingkatan yang berbeda. <h1> merupakan judul dengan tingkatan tertinggi, sedangkan <h6> merupakan judul dengan tingkatan terendah.
 
 <p>: Tag ini digunakan untuk membuat paragraf.
@@ -19,6 +20,7 @@ Poin pertama menjelaskan tentang Pengertian Frontend, Pengertian HTML, Kegunaan 
 <img>: Tag ini digunakan untuk menyematkan gambar dalam halaman web.
 
 <ul> dan <li>: Tag ini digunakan untuk membuat daftar tak-berurutan (unordered list) dan item dalam daftar tersebut.
+```
 
 ### Poin Kedua
 Poin kedua menjelaskan tentang Pengertian dan Kegunaan CSS, Pengertian dan Implementasi dari (External CSS, Internal CSS dan Inline CSS), Pengertian CSS Selector dan Implementasinya, Pengertian CSS Grouping dan Implementasinya.
