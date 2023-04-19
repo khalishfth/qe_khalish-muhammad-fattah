@@ -41,9 +41,9 @@ Poin ketiga menjelaskan tentang Metode Performance Test dan Pengertian dari bebe
 
 Dalam melakukan Performance Test, beberapa metode dan langkah yang perlu diperhatikan antara lain:
 
-Membuat Test Plan: Merencanakan pengujian performa dengan membuat Test Plan yang terperinci, termasuk tujuan pengujian, skenario pengujian, metrik kinerja yang akan diukur, infrastruktur yang akan digunakan, dan tim yang bertanggung jawab.
+- Membuat Test Plan: Merencanakan pengujian performa dengan membuat Test Plan yang terperinci, termasuk tujuan pengujian, skenario pengujian, metrik kinerja yang akan diukur, infrastruktur yang akan digunakan, dan tim yang bertanggung jawab.
 
-Menentukan Metode Test: Memilih metode pengujian yang sesuai sesuai dengan tujuan pengujian dan kebutuhan proyek. Misalnya, jika tujuan pengujian adalah untuk mengukur batasan sistem dalam menghadapi beban kerja yang tinggi, maka Load Testing atau Stress Testing mungkin lebih relevan. Pemilihan metode pengujian harus didasarkan pada kebutuhan proyek dan karakteristik sistem yang diuji.
+- Menentukan Metode Test: Memilih metode pengujian yang sesuai sesuai dengan tujuan pengujian dan kebutuhan proyek. Misalnya, jika tujuan pengujian adalah untuk mengukur batasan sistem dalam menghadapi beban kerja yang tinggi, maka Load Testing atau Stress Testing mungkin lebih relevan. Pemilihan metode pengujian harus didasarkan pada kebutuhan proyek dan karakteristik sistem yang diuji.
 
 Selain itu, ada beberapa istilah penting dalam Performance Tests yang perlu dipahami, antara lain:
 
