@@ -1,7 +1,7 @@
 # (12) Fundamental Performance Test
 
 ### Poin Pertama
-Pengertian Performance Test, Apa yang Diukur dari Performance Test, Mengapa Performance Test Jarang Dilakukan
+Pengertian Performance Test, Apa yang Diukur dari Performance Test, Mengapa Performance Test Jarang Dilakukan.
 
 Performance Test adalah jenis pengujian perangkat lunak yang dilakukan untuk mengukur kemampuan suatu sistem atau aplikasi dalam menghadapi beban kerja yang tinggi atau kondisi lingkungan yang ekstrem. Tujuan utama dari Performance Test adalah untuk mengidentifikasi batasan atau kelemahan sistem dalam hal kinerja, kestabilan, dan skalabilitasnya.
 
@@ -14,7 +14,7 @@ Namun, Performance Test jarang dilakukan secara rutin oleh banyak organisasi ata
 - Kurangnya kesadaran: Beberapa organisasi atau tim pengembangan perangkat lunak mungkin tidak sepenuhnya menyadari pentingnya Performance Test atau mungkin mengabaikan pentingnya pengujian performa dalam siklus pengembangan perangkat lunak mereka.
 
 ### Poin Kedua
-Poin kedua menjelaskan tentang Apa yang Perlu Diperhatikan dari Performance Test, Contoh Kasus Performance Test, Beberapa Jenis Performance Tests (termasuk Smoke Testing, Load Testing, Stress Testing, Spike Testing, Soak Testing). 
+Poin kedua menjelaskan tentang Apa yang Perlu Diperhatikan dari Performance Test, Contoh Kasus Performance Test, Beberapa Jenis Performance Tests. 
 
 Dalam melakukan Performance Test, ada beberapa hal yang perlu diperhatikan, antara lain:
 
@@ -37,7 +37,7 @@ Beberapa jenis Performance Tests yang umum digunakan dalam pengujian perangkat l
 - Soak Testing: Pengujian yang menguji kinerja sistem atau aplikasi dalam jangka waktu yang lama untuk mengidentifikasi masalah yang mungkin muncul dalam pemakaian jangka panjang, seperti kebocoran memori atau penggunaan sumber daya yang berlebihan.
 
 ### Poin Ketiga
-Poin ketiga menjelaskan tentang Metode Performance Test (termasuk Membuat Test Plan, Menentukan Metode Test) dan Pengertian dari istilah penting dalam Performance Tests (termasuk System Under Test (SUT), Load Generator, Throughput, Performance Threshold, Saturation, Virtual Users, Response Time).
+Poin ketiga menjelaskan tentang Metode Performance Test dan Pengertian dari beberapa istilah penting dalam Performance Tests.
 
 Dalam melakukan Performance Test, beberapa metode dan langkah yang perlu diperhatikan antara lain:
 
